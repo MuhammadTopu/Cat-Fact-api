@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    overflow: hidden;
+    
+
+}
+body{
+    height: 100vh;
+    background-image: url(https://wagyourtail.photography/wp-content/uploads/cat-photography-denver-3.jpg);
+    background-size: cover;
+    
+}
+
+div{
+    height: 300px;
+    width: 500px;
+    margin-left: 5% ;
+    margin-top: 10%;
+  
+    border-radius: 20px;
+    box-shadow: 4px 4px 16px black;
+
+}
+
+button{
+    margin-left: 20rem;
+    padding: 5px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background-color: gray;
+    font-size: 1rem;
+   
+}
+
+button:active{
+    background-color: gray;
+    color: white;
+}
+h1{
+    margin-left: 1rem;
+    text-decoration: underline;
+}
+h2{
+    margin-left: 45%;
+}
+#result{
+ margin-top: 2rem;
+}
+.p{
+    margin-left: 43%;
+}
